@@ -3,7 +3,7 @@
 基于iptables 添加端口流量统计并记录
 
 使用方法：
-`wget -N --no-check-certificate https://git.io/Port-traffic-statistics && chmod +x Port-traffic-statistics.sh && ./Port-traffic-statistics.sh`
+`wget -N --no-check-certificate https://git.io/Port-traffic-statistics.sh && chmod +x Port-traffic-statistics.sh && ./Port-traffic-statistics.sh`
 
 
 端口流量统计一键脚本  By：Seal0207
